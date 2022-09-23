@@ -19,6 +19,8 @@ def silly_sum():
 
     return sum
 
-
+    
+    print('gbye!')
+print('hi')
 if __name__ == "__main__":
     print(f"Answer = {silly_sum()}")
